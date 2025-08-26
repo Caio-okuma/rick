@@ -1,1 +1,1 @@
-# rick
+# sesi07-consumo-api-rickandmorty
